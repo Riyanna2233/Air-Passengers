@@ -1,0 +1,7 @@
+airpassengers/
+│
+├── app.py
+├── templates/
+│   └── index.html
+├── lstm_model.h5
+└── scaler.pkl
